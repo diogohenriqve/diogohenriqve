@@ -42,13 +42,6 @@ Executo testes funcionais e exploratórios para reproduzir bugs, documentando ev
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
 ![Mobile Testing](https://img.shields.io/badge/Mobile-Testing-34A853?style=for-the-badge)
 
-### 📊 Stats GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=diogohenriqve&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogohenriqve&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
-
 ---
 
 ### 📫 Como me achar
